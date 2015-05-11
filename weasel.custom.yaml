@@ -1,0 +1,48 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon May 11 09:12:36 2015"
+  rime_version: 1.1.2
+patch:
+  "preset_color_schemes/BlackWorld":
+    author: "seugerry@gmail.com"
+    back_color: 0x000000
+    border_color: 0xdaa67a
+    candidate_text_color: 0xb1c070
+    comment_text_color: 0xb1c070
+    hilited_back_color: 0x000000
+    hilited_candidate_back_color: 0x000000
+    hilited_candidate_text_color: 0xeaeaea
+    hilited_text_color: 0xeaeaea
+    name: BlackWorld
+    text_color: 0xdaa67a
+  "preset_color_schemes/HUOLI":
+    author: "seugerry@gmail.com"
+    back_color: 0xffffff
+    border_color: 0x98a12a
+    candidate_text_color: 0x000000
+    comment_text_color: 0x000000
+    hilited_back_color: 0x98a12a
+    hilited_candidate_back_color: 0x98a12a
+    hilited_candidate_text_color: 0xffffff
+    hilited_text_color: 0xffffff
+    name: "活力／HUOLI"
+    text_color: 0x8236d3
+  "preset_color_schemes/Snowball":
+    author: "seugerry@gmail.com"
+    back_color: 0xCC6600
+    border_color: 0xCC6600
+    candidate_text_color: 0xFFFFFF
+    comment_text_color: 0xFFFFFF
+    hilited_back_color: 0x000000
+    hilited_candidate_back_color: 0x000000
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_text_color: 0xFFFFFF
+    name: "雪球／Snowball"
+    text_color: 0xFFFFFF
+  "style/color_scheme": Snowball
+  "style/display_tray_icon": true
+  "style/font_face": "思源黑体 HW Regular"
+  "style/font_point": 18
+  "style/horizontal": true
